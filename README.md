@@ -1,4 +1,4 @@
-### Hi, I'm [Vimal.M] 👋
+### Hi, I'm Vimal.M 👋
 
 <img src="https://komarev.com/ghpvc/?username=yourusername&color=00FFB2&style=flat" />
 
@@ -147,41 +147,14 @@ and building the foundation for a career in chip design.
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)
 
-](https://linkedin.com/in/yourprofile)
+](https://linkedin.com/in/Vimal M)
 [
 
 ![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail)
 
-](mailto:youremail@gmail.com)
+](mailto:smoha001@gmail.com)
 
----
-## 📫 Connect With Me
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)
-
-](https://linkedin.com/in/yourprofile)
-[
-
-![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail)
-
-](mailto:youremail@gmail.com)
-
----
-
-## 📫 Connect With Me
-
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)
-
-](https://linkedin.com/in/yourprofile)
-[
-
-![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail)
-
-](mailto:youremail@gmail.com)
 
 ---
 
