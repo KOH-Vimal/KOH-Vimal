@@ -147,7 +147,7 @@ and building the foundation for a career in chip design.
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)
 
-](https://linkedin.com/in/Vimal.M)
+](https://www.linkedin.com/in/vimal-m-266823414?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [
 
 ![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail)
